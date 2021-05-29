@@ -5,7 +5,8 @@ A system that monitors mental health by visualizing the galvanic stress response
 
 **Flutter app made by:**  ***SMC T-6***
 
-![alt tag](https://github.com/nikk-16/mental_health/blob/master/Team_logo.png)
+![alt tag](https://github.com/nikk-16/mental_health/blob/master/Team_logo.png) 
+![alt tag](https://raw.githubusercontent.com/adamgillfillan/mental_health_app/master/logo-mhv.png)
 
 
 *Rumit Nagori*
@@ -19,4 +20,4 @@ A system that monitors mental health by visualizing the galvanic stress response
 See it in action here: 
 https://www.canva.com/design/DAEf4KWTgKE/KCGnJ4ZTlIKfRuO_0dFn1w/watch?utm_content=DAEf4KWTgKE&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
 
-![alt tag](https://raw.githubusercontent.com/adamgillfillan/mental_health_app/master/logo-mhv.png)
+
